@@ -1,0 +1,10 @@
+{
+  "name": "com.tiredsiren.mediator",
+  "version": "1.0.0",
+  "displayName": "Mediator",
+  "description": "Mediator pattern implementation for Unity.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Zem"
+  }
+}
