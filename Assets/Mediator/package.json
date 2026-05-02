@@ -8,7 +8,7 @@
     "name": "Zem"
   },
   "dependencies": {
-    "com.tiredsiren.vcontainer": "1.18.0"
+    "com.tiredsiren.vcontainer": "1.0.0"
   },
   "licensesUrl": "https://github.com/ZemMezzer/Mediator/blob/master/LICENSE"
 }
